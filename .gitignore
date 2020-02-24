@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.env
+Game_of_Thrones_Script.csv
+GoT_filtered.csv
+log.csv
+log.txt
+Dataset clean.py
+to_do.txt
+nltk-requirements.py
+Dockerfile
+requirements.txt
+.private.env
+config.py
+syncdb.sh
