@@ -16,7 +16,7 @@ In this repo you will find an API whose main functionality is:
 
 https://api-natural-language-analysis.herokuapp.com/
 
-# You also will find a jupyter notebook with an example in the present repository
+##### You also will find a jupyter notebook with an example in the present repository
 
 # API end-points
 
