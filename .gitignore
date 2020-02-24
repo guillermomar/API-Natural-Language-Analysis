@@ -10,5 +10,4 @@ nltk-requirements.py
 Dockerfile
 requirements.txt
 .private.env
-config.py
 syncdb.sh
